@@ -60,3 +60,13 @@ console.log(usuarioOrdenandosPorIdade);
 function ordenar(lista,proprieade){
     const resultado=lista.sort((a,b)=>{})
 }
+if (a[propriedade]>[propridade]){
+            return-1,
+        }
+        if(a[propriedade]>[propriedade]){
+            return 1,
+        }
+        return 0;
+    });
+    return resultado;
+}
